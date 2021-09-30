@@ -1,3 +1,70 @@
+- 代码之外
+  - 《编舟记》
+  - 《明朝那些事》
+  - 《西线无战事》
+- 必备书籍
+
+- 计算机基础
+  - 算法与数据结构
+  - 计算机网络
+  - 操作系统
+  - 计算机组成原理
+- Java基础
+  - 数据类型
+  - 集合
+  - JVM
+  - 多线程
+- Java框架
+  - Spring
+  - SpringMVC
+  - MyBatis
+  - Spring Boot
+  - Spring Security
+  - Shiro
+  - Netty
+  - Dubbo
+  - SpringCloud
+
+- 设计模式
+  - 创造型模式
+    - 单例模式
+    - (抽象)工厂模式
+    - 原型模式
+
+  - 行为型模式
+  - 结构性模式
+
+- 消息中间件
+  - RocketMQ
+  - 几种消息队列对比
+
+- 数据库
+  - SQL语法
+  - MySQL
+    - 范式
+    - 从B+树到索引
+    - 事务
+    - bin log与redo log
+    - MVCC
+    - 其他
+  - Redis
+    - 数据类型及底层数据结构
+    - 分布式锁
+- 大数据
+  - Hadoop
+  - Hive
+  - Spark
+  - Zookeeper
+  - Kafka
+  - Flink
+  - ElasticSearch
+  - ClickHouse
+
+- 综合
+  - 高并发
+  - 高可用
+  - 分布式
+ 
 - LeetCode
   - 位运算
     - [lc371--两整数之和](leetcode/位运算/lc371.md)
@@ -8,5 +75,3 @@
   - [公众平台](CONTACT.md)
 - Java
   - [JVM](JVM.md)
-- 其他小工具
-  - [JWT](jwt/README.md)
