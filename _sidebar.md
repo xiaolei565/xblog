@@ -22,7 +22,7 @@
   - SpringMVC
   - MyBatis
   - Spring Boot
-  - Spring Security
+  - [SpringSecurity](Java框架/SpringSecurity/SpringSecurity快速入门.md)
   - Shiro
   - Netty
   - Dubbo
