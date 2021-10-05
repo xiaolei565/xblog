@@ -19,10 +19,12 @@
   - 多线程
 - Java框架
   - Spring
+    - [1.Spring概述](Java框架/Spring/1.Spring概述.md)
   - SpringMVC
   - MyBatis
   - Spring Boot
-  - [SpringSecurity](Java框架/SpringSecurity/SpringSecurity快速入门.md)
+  - SpringSecurity
+    - [1.SpringSecurity快速入门](Java框架/SpringSecurity/SpringSecurity快速入门.md)
   - Shiro
   - Netty
   - Dubbo
