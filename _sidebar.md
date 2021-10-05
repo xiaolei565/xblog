@@ -13,13 +13,39 @@
   - 操作系统
   - 计算机组成原理
 - Java基础
+  - 基本概念
+    - 反射
+    - 序列化与反序列化
+    - 内存溢出与内存泄露
   - 数据类型
+    - 基本数据类型
+    - 引用数据类型
+    - static、final关键字解析
   - 集合
+    - HashMap
+    - List
+    - Object类
   - JVM
+    - 运行时内存区域
+    - JMM
+    - 垃圾回收器与垃圾回收算法
+    - 对象创建过程
+    - 字符串常量池
+    - [JVM](JVM.md)
+    - Synchronized与Volatile
   - 多线程
+    - 进程与线程
+    - Runable与Callable
+    - Lock与Synchronized
+    - 生产者与消费者问题
+    - AQS
+    - 线程池
 - Java框架
   - Spring
     - [1.Spring概述](Java框架/Spring/1.Spring概述.md)
+    - 面试点：Bean生命周期
+    - 面试点：Spring事务传播机制与隔离级别
+    - 面试点：Spring中使用了哪些设计模式
   - SpringMVC
   - MyBatis
   - Spring Boot
@@ -27,6 +53,9 @@
     - [1.SpringSecurity快速入门](Java框架/SpringSecurity/SpringSecurity快速入门.md)
   - Shiro
   - Netty
+    - BIO与NIO
+    - 零拷贝
+    - Netty组件
   - Dubbo
   - SpringCloud
 
@@ -52,9 +81,15 @@
     - bin log与redo log
     - MVCC
     - 其他
+    - 实战45讲笔记
+      - [1.一条SQL查询语句如何执行](数据库/MySQL/实战45讲/一条SQL查询语句如何执行.md)
+      - 2.一条SQL更新语句如何执行
   - Redis
-    - 数据类型及底层数据结构
+    - 基本数据类型及底层数据结构
+    - 三种特殊数据类型
+    - 缓存
     - 分布式锁
+    - 如何保证Redis与MySQL中数据一致性
 - 大数据
   - Hadoop
   - Hive
@@ -69,8 +104,13 @@
   - 高并发
   - 高可用
   - 分布式
+    - paxos、raft与zab算法
 - 其他
   - 编码规范
+  - Git
+  - Linux命令
+  - Python
+  - 正则表达式
  
 - LeetCode
   - 位运算
@@ -78,5 +118,3 @@
     - [ceshi](leetcode/位运算/lc372.md)
   - 数组
     - [lc31--下一个排列](leetcode/数组/lc31.md)
-- Java
-  - [JVM](JVM.md)
