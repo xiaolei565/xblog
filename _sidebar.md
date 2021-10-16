@@ -1,8 +1,8 @@
 - ✨代码之外
   - [《编舟记》--为了与死者相连，与尚未降生的人相连，人创造了词汇](代码之外/编舟记.md)
+  - [《西线无战事》--愿世间无战争](代码之外/西线无战事.md)
   - 《明朝那些事》
   - 《万历十五年》
-  - 《西线无战事》
   - 《平如美棠》
   - 《人类简史》
 - [必备书单](必备书单.md)
@@ -69,6 +69,7 @@
     - 面试点：Spring中使用了哪些设计模式
   - SpringMVC
   - MyBatis
+    - [1.第一个Mybatis程序](Java框架/Mybatis/1.第一个Mybatis程序.md)
   - Spring Boot
   - SpringSecurity
     - [1.SpringSecurity快速入门](Java框架/SpringSecurity/SpringSecurity快速入门.md)
@@ -80,7 +81,7 @@
     - Netty组件
   - Dubbo
   - SpringCloud
-- 设计模式
+- 🍀设计模式
   - 创造型模式
     - [单例模式](设计模式/单例模式.md)
     - (抽象)工厂模式
@@ -99,16 +100,17 @@
     - bin log与redo log
     - MVCC
     - 其他
-    - 实战45讲笔记
+    - 📖实战45讲笔记
       - [1.一条SQL查询语句如何执行](数据库/MySQL/实战45讲/一条SQL查询语句如何执行.md)
       - [2.一条SQL更新语句如何执行](数据库/MySQL/实战45讲/一条SQL更新语句如何执行.md)
+      - [3.事务隔离--为什么你改了我还看不见](数据库/MySQL/实战45讲/事务隔离.md)
   - Redis
     - 基本数据类型及底层数据结构
     - 三种特殊数据类型
     - 缓存
     - 分布式锁
     - 如何保证Redis与MySQL中数据一致性
-- 🌤️大数据
+- 🍩大数据
   - Hadoop
   - Hive
   - Spark
