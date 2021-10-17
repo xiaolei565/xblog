@@ -5,6 +5,7 @@
   - 《万历十五年》
   - 《平如美棠》
   - 《人类简史》
+  - 《强风吹拂》--想看
 - [必备书单](必备书单.md)
 - 😈计算机基础
   - 算法与数据结构
@@ -74,6 +75,7 @@
   - SpringSecurity
     - [1.SpringSecurity快速入门](Java框架/SpringSecurity/SpringSecurity快速入门.md)
   - Shiro
+    - [1.Shiro快速入门](Java框架/Shiro/Shiro快速入门.md)
   - Netty
     - BIO与NIO
     - IO复用（重要）
@@ -94,6 +96,7 @@
 - ☀️数据库
   - SQL语法
   - MySQL
+    - 安装
     - 范式
     - 从B+树到索引
     - 事务
@@ -105,6 +108,7 @@
       - [2.一条SQL更新语句如何执行](数据库/MySQL/实战45讲/一条SQL更新语句如何执行.md)
       - [3.事务隔离--为什么你改了我还看不见](数据库/MySQL/实战45讲/事务隔离.md)
   - Redis
+    - 安装
     - 基本数据类型及底层数据结构
     - 三种特殊数据类型
     - 缓存
@@ -112,6 +116,7 @@
     - 如何保证Redis与MySQL中数据一致性
 - 🍩大数据
   - Hadoop
+    - 安装
   - Hive
   - Spark
   - Zookeeper
