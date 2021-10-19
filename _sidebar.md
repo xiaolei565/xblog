@@ -137,6 +137,7 @@
   - Linux命令
   - Python
   - 正则表达式
+  - UML
 - LeetCode
   - 位运算
     - [lc371--两整数之和](leetcode/位运算/lc371.md)
