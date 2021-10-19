@@ -132,3 +132,5 @@
     - [ceshi](leetcode/位运算/lc372.md)
   - 数组
     - [lc31--下一个排列](leetcode/数组/lc31.md)
+  - 字符串
+    - [lc8--字符串转整数](leetcode/字符串/lc8.md)
