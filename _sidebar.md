@@ -1,12 +1,13 @@
 - ✨代码之外
   - [《编舟记》--为了与死者相连，与尚未降生的人相连，人创造了词汇](代码之外/编舟记.md)
+  - [《西线无战事》--愿世间无战争](代码之外/西线无战事.md)
   - 《明朝那些事》
   - 《万历十五年》
-  - 《西线无战事》
   - 《平如美棠》
   - 《人类简史》
+  - 《强风吹拂》--想看
 - [必备书单](必备书单.md)
-- 计算机基础
+- 😈计算机基础
   - 算法与数据结构
     - 数组与链表
     - 字符串
@@ -32,7 +33,7 @@
     - 文件
   - 计算机组成原理
     - 反码，补码
-- Java基础
+- 👌🏻Java基础
   - 基本概念
     - 反射
     - 序列化与反序列化
@@ -60,25 +61,29 @@
     - 生产者与消费者问题
     - AQS
     - 线程池
-- Java框架
+- 😭Java框架
   - Spring
     - [1.Spring概述](Java框架/Spring/1.Spring概述.md)
+    - [2.第一个Spring项目](Java框架/Spring/2.第一个Spring项目.md)
     - 面试点：Bean生命周期
     - 面试点：Spring事务传播机制与隔离级别
     - 面试点：Spring中使用了哪些设计模式
   - SpringMVC
   - MyBatis
+    - [1.第一个Mybatis程序](Java框架/Mybatis/1.第一个Mybatis程序.md)
   - Spring Boot
   - SpringSecurity
     - [1.SpringSecurity快速入门](Java框架/SpringSecurity/SpringSecurity快速入门.md)
   - Shiro
+    - [1.Shiro快速入门](Java框架/Shiro/Shiro快速入门.md)
   - Netty
     - BIO与NIO
+    - IO复用（重要）
     - 零拷贝
     - Netty组件
   - Dubbo
   - SpringCloud
-- 设计模式
+- 🍀设计模式
   - 创造型模式
     - [单例模式](设计模式/单例模式.md)
     - (抽象)工厂模式
@@ -88,26 +93,30 @@
 - 消息中间件
   - RocketMQ
   - 几种消息队列对比
-- 数据库
+- ☀️数据库
   - SQL语法
   - MySQL
+    - 安装
     - 范式
     - 从B+树到索引
     - 事务
     - bin log与redo log
     - MVCC
     - 其他
-    - 实战45讲笔记
+    - 📖实战45讲笔记
       - [1.一条SQL查询语句如何执行](数据库/MySQL/实战45讲/一条SQL查询语句如何执行.md)
       - [2.一条SQL更新语句如何执行](数据库/MySQL/实战45讲/一条SQL更新语句如何执行.md)
+      - [3.事务隔离--为什么你改了我还看不见](数据库/MySQL/实战45讲/事务隔离.md)
   - Redis
+    - 安装
     - 基本数据类型及底层数据结构
     - 三种特殊数据类型
     - 缓存
     - 分布式锁
     - 如何保证Redis与MySQL中数据一致性
-- 🌤️大数据
+- 🍩大数据
   - Hadoop
+    - 安装
   - Hive
   - Spark
   - Zookeeper
@@ -120,6 +129,8 @@
   - 高可用
   - 分布式
     - paxos、raft与zab算法
+- 大数据平台
+  - 用户画像
 - 其他
   - 编码规范
   - Git
