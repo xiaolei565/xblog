@@ -124,6 +124,7 @@
   - Flink
   - ElasticSearch
   - ClickHouse
+    - [偶然所得](大数据/ClickHouse/偶然间学习到的.md)
 - 综合
   - 高并发
   - 高可用
