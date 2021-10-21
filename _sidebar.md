@@ -121,6 +121,7 @@
   - Spark
   - Zookeeper
   - Kafka
+    - [Kafka开发中常用命令](大数据/Kafka/kafka常用指令.md)
   - Flink
   - ElasticSearch
   - ClickHouse
