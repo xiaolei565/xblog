@@ -103,6 +103,7 @@
     - bin log与redo log
     - MVCC
     - 其他
+      - [Explain 执行计划中各个字段的含义](数据库/MySQL/其他/Explain执行计划中各个字段的含义.md)
     - 📖实战45讲笔记
       - [1.一条SQL查询语句如何执行](数据库/MySQL/实战45讲/一条SQL查询语句如何执行.md)
       - [2.一条SQL更新语句如何执行](数据库/MySQL/实战45讲/一条SQL更新语句如何执行.md)
