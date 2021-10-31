@@ -96,7 +96,7 @@
 - ☀️数据库
   - SQL语法
   - MySQL
-    - 安装
+    - [MySQL安装--win64](数据库/MySQL/MySQL安装--win64.md)
     - 范式
     - 从B+树到索引
     - 事务
