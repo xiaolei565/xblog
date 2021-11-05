@@ -52,7 +52,7 @@
     - [对象创建与字符串常量池探秘🆗](Java基础/JVM/虚拟机对象探秘与字符串常量池.md)
     - [引用的概念🆗](Java基础/JVM/引用的概念.md)
     - [内存分配和垃圾回收🆗](Java基础/JVM/内存分配和垃圾收集.md)
-    - JMM
+    - [什么是JMM？](Java基础/JVM/JMM.md)
     - Synchronized与Volatile
   - 多线程
     - 进程与线程
