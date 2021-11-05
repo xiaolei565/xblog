@@ -40,20 +40,19 @@
     - 反射
     - 序列化与反序列化
     - 内存溢出与内存泄露
-  - 数据类型
+    - [static、final等关键字解析🆗](Java基础/Java知识/static、final、this与super关键字.md)
+  - 数据类型与集合
     - 基本数据类型
     - 引用数据类型
-    - static、final关键字解析
-  - 集合
     - HashMap
     - List
     - Object类
   - JVM
-    - 运行时内存区域
+    - [运行时内存区域🆗](Java基础/JVM/运行时内存区域.md)
+    - [对象创建与字符串常量池探秘🆗](Java基础/JVM/虚拟机对象探秘与字符串常量池.md)
+    - [引用的概念🆗](Java基础/JVM/引用的概念.md)
+    - [内存分配和垃圾回收🆗](Java基础/JVM/内存分配和垃圾收集.md)
     - JMM
-    - [内存分配和垃圾回收](Java基础/JVM/内存分配和垃圾收集.md)
-    - 对象创建过程
-    - 字符串常量池
     - Synchronized与Volatile
   - 多线程
     - 进程与线程
