@@ -75,8 +75,8 @@
     - 类文件结构
     - 常量池
     - 类加载机制（过程和加载器）
-    - [什么是JMM？](Java基础/JVM/JMM.md)
-    - Volatile
+    - [JMM](Java基础/JVM/JMM.md)
+    - [Volatile](Java基础/JVM/Volatile.md)
   - 多线程
     - 进程与线程
     - Runable与Callable
