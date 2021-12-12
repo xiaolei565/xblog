@@ -196,6 +196,7 @@
   - SpringCloud项目
 - 其他
   - 编码规范
+  - [Vim语法](其他/vim常用命令.md)
   - Git
   - Linux命令
   - Python
