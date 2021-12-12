@@ -69,6 +69,7 @@
   - JVM
     - 编译JDK
     - 类加载子系统
+    - 类加载机制（过程和加载器）
     - [运行时内存区域🔥](Java基础/JVM/运行时内存区域.md)
     - 内存区域详解
       - [虚拟机栈](Java基础/JVM/内存区域/虚拟机栈.md)
@@ -82,10 +83,16 @@
     - [对象的内存布局](Java基础/JVM/对象的内存布局.md)
     - [引用的概念🆗](Java基础/JVM/引用的概念.md)
     - [内存分配和垃圾回收🆗](Java基础/JVM/内存分配和垃圾收集.md)
-    - [低延迟垃圾收集器](Java基础/JVM/低延迟垃圾收集器.md)
+    - [低延迟垃圾收集器🆕](Java基础/JVM/低延迟垃圾收集器.md)
     - 类文件结构
+    - 字节码
     - 常量池
-    - 类加载机制（过程和加载器）
+    - 调优工具
+      - 命令行
+      - VisualVM
+      - MAT
+      - JProfiler
+      - GCViewer
     - [JMM](Java基础/JVM/JMM.md)
     - [Volatile](Java基础/JVM/Volatile.md)
   - 多线程
