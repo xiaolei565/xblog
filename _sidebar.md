@@ -12,6 +12,7 @@
     - 跳表
     - 排序算法
     - 复杂度怎么算
+    - 加密
     - LeetCode
   - 计算机网络
     - [网络分层模型](计算机基础/计算机网络/网络分层模型.md)
@@ -57,6 +58,8 @@
     - 反射
     - 接口和抽象类
     - 序列化与反序列化
+    - IO流
+    - 异常与错误
     - 内存溢出与内存泄露
     - 动态代理--cglib和jdk
     - [static、final等关键字解析🆗](Java基础/Java知识/static、final、this与super关键字.md)
@@ -248,8 +251,8 @@
   - SpringCloud项目
 - 其他
   - 编码规范
-  - [Vim语法](其他/vim常用命令.md)
-  - Git
+  - [vim常用命令](其他/vim常用命令.md)
+  - [git常用命令](/其他/git常用命令.md)
   - Linux命令
   - Python
   - 正则表达式
