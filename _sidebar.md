@@ -174,7 +174,7 @@
     - HDFS
       - 架构
       - HDFS数据流
-      - NN与2NN
+      -[NN与2NN]((大数据/Hadoop/NN与2NN.md))
       - DN工作机制
     - MapReduce
       - 框架原理
