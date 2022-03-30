@@ -174,9 +174,9 @@
     - 安装与配置
     - 基本操作命令
     - HDFS
-      - 架构
+      - [HDFS架构🔥](大数据/Hadoop/HDFS架构.md)
       - HDFS数据流
-      -[NN与2NN]((大数据/Hadoop/NN与2NN.md))
+      - [NN与2NN🔥](大数据/Hadoop/NN与2NN.md)
       - DN工作机制
     - MapReduce
       - 框架原理
